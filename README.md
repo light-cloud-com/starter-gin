@@ -8,6 +8,10 @@
   A Gin HTTP service in Go, ready to deploy on Light Cloud.
 </p>
 
+<p align="center">
+  <a href="https://console.light-cloud.com/new?repo=https://github.com/light-cloud-com/starter-gin"><img src="https://light-cloud.com/button.svg" alt="Deploy to Light Cloud" /></a>
+</p>
+
 ---
 
 ## Features
